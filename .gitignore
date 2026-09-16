@@ -1,0 +1,7 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.pth
+*.pt
+*.zip
+keras_png_slices_data/
